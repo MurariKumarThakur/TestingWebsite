@@ -36,7 +36,8 @@ a{
 
 	text-decoration: none;
 	color: Indigo       ;
-    margin-left: 8%;
+	margin-left: 6%;
+    
    
 
    
@@ -50,7 +51,7 @@ a{
 }
 .heading{
 
-	margin-left: 40%;
+	text-align: center;
 	color: black;
 	font-size: 30px;
 	text-decoration: all;
